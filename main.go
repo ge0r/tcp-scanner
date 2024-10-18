@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("asdf")
+	// Scan("scanme.nmap.org")
+	// Scan("127.0.0.1")
+	PooledScan()
 }
